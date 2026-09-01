@@ -1,0 +1,42 @@
+package kr.ac.kopo.servlet;
+
+import java.io.IOException;
+
+import jakarta.servlet.ServletConfig;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+@WebServlet("/hiservlet")
+public class HiServlet extends HttpServlet {
+
+	@Override
+	public void init(ServletConfig config) throws ServletException {
+		// TODO Auto-generated method stub
+		super.init(config);
+	}
+
+	@Override
+	public void service(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+		
+		String uri = req.getRequestURI();
+		String method = req.getMethod();
+		System.out.println(uri);
+		System.out.println(method);
+		
+		res.setContentType("text/html");
+		PrintWriter out = res.getWriter();
+
+	}
+
+	@Override
+	public void destroy() {
+		// TODO Auto-generated method stub
+		super.destroy();
+	}
+
+
+
+}

@@ -1,10 +1,30 @@
 package grammar;
 
+import java.util.Scanner;
+
 public class For04 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		
+		System.out.print("양의 숫자를 입력하세요 :");	
+		int n = in.nextInt();
+		
+		while(n < 0) {
+			
+			System.out.print("양의 숫자가 아닙니다 다시 입력하세요 :");
+			n = in.nextInt();
 
+		}
+		int sum = 0;
+		
+		for(int i = 1;i < n+1;i++){
+			
+			sum += i;
+			
+		}
+		System.out.println("1부터 "+n+"까지의 합은"+sum+"입니다");
 	}
 
 }

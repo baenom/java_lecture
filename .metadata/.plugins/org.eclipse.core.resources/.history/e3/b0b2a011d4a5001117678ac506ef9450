@@ -1,0 +1,20 @@
+package grammar;
+
+import java.util.Scanner;
+
+public class Coin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		
+		System.out.print("금액 :");
+		int c = in.nextInt();
+		
+		System.out.print("동전의 수 >");
+		int r = c / 500;
+		System.out.print(r);
+		System.out.print(r / 100);
+	}
+
+}
