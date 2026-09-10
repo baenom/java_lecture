@@ -186,3 +186,23 @@
 2026-09-08 10:11:45.674: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-08 10:11:45.674: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-08 10:25:40.232: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 03:39:22.003: [INFO] CurrentProfilePath: D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 03:39:22.003: [INFO] Profiles total count: 1
+2026-09-09 03:39:22.003: [INFO] Profile: name=프로필 1 path=D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-08T10:11:55.538Z
+2026-09-09 03:39:22.003: [INFO] LastUsedProfileDir: D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-09 03:39:22.003: [INFO] MostRecentlyActiveProfile: name=프로필 1 path=D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-08T10:11:55.538Z
+2026-09-09 03:39:22.003: [INFO] OnDoneLoading sync enabled: 0
+2026-09-09 03:39:22.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-09 03:39:22.003: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-09 03:39:22.003: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-09 06:30:49.058: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 00:22:25.383: [INFO] CurrentProfilePath: D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 00:22:25.383: [INFO] Profiles total count: 1
+2026-09-10 00:22:25.383: [INFO] Profile: name=프로필 1 path=D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-09T04:30:45.307Z
+2026-09-10 00:22:25.383: [INFO] LastUsedProfileDir: D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 00:22:25.383: [INFO] MostRecentlyActiveProfile: name=프로필 1 path=D:\Lecture\Java26\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-09T04:30:45.307Z
+2026-09-10 00:22:25.383: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 00:22:25.383: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 00:22:25.383: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 00:22:25.383: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 03:44:03.471: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
