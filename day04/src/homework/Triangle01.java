@@ -9,15 +9,8 @@ public class Triangle01 {
         this.height = height;
     }
 
-    public double getBase() {
-        return base;
-    }
-
-    public double getHeight() {
-        return height;
-    }
 
     public double findArea() {
-        return (base * height) / 2.0;
+        return (this.base * this.height) / 2.0;
     }
 }
