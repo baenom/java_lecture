@@ -21,12 +21,12 @@
 	<hr>
 	
 	<table border="1" width = "80%">
-	<tr>
-	<th width="7%">번호</th>
-	<th>제목</th>
-	<th width="17%">작성자</th>
-	<th width="25%">등록일</th>
-	</tr>
+		<tr>
+			<th width="7%">번호</th>
+			<th>제목</th>
+			<th width="17%">작성자</th>
+			<th width="25%">등록일</th>
+		</tr>
 	<%
 	for(int i = 0;i< list.length;i++){
 	%>

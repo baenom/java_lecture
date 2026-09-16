@@ -1,0 +1,21 @@
+package homework;
+
+public class GirlTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//	Girl g1 = new Girl(null);
+//	Girl g2 = new GoodGirl(null);
+//	GoodGirl gg = new BestGirl(null);
+//	
+//	g2.show();
+//	gg.show();
+		
+		Girl[] girls = {new Girl("갑순이"),new GoodGirl("콩쥐"),new BestGirl("황진이")};
+		
+		for(Girl g : girls) {
+			g.show();
+		}
+	}
+
+}

@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="circle.Circle"/>
     <fullyQualifiedTypeName name="homework.Complex"/>
     <fullyQualifiedTypeName name="homework.GolfClub"/>
+    <fullyQualifiedTypeName name="java.lang.EnumConstantNotPresentException"/>
+    <fullyQualifiedTypeName name="circle.Circle"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="circle.Cylinder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="homework.Circle"/>
+    <fullyQualifiedTypeName name="homework.Person"/>
+    <fullyQualifiedTypeName name="homework.Student"/>
+    <fullyQualifiedTypeName name="homework.ForeignStudent"/>
+    <fullyQualifiedTypeName name="homework.Point"/>
+    <fullyQualifiedTypeName name="homework.Parent"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="homework.Telephone"/>
+    <fullyQualifiedTypeName name="homework.Phone"/>
 </qualifiedTypeNameHistroy>
