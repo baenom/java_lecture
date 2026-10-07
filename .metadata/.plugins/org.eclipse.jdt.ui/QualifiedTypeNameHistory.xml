@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="homework.GolfClub"/>
     <fullyQualifiedTypeName name="java.lang.EnumConstantNotPresentException"/>
     <fullyQualifiedTypeName name="circle.Circle"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="circle.Cylinder"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="homework.Circle"/>
@@ -17,4 +16,12 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="homework.Telephone"/>
     <fullyQualifiedTypeName name="homework.Phone"/>
+    <fullyQualifiedTypeName name="animal.Tiger"/>
+    <fullyQualifiedTypeName name="animal.Goldfish"/>
+    <fullyQualifiedTypeName name="animal.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="circleA.CircleTemplate"/>
+    <fullyQualifiedTypeName name="circleI.CircleTemplate"/>
+    <fullyQualifiedTypeName name="java.lang.LinkageError"/>
+    <fullyQualifiedTypeName name="bank.account.AccountDao"/>
 </qualifiedTypeNameHistroy>
