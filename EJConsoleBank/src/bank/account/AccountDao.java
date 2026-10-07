@@ -4,9 +4,9 @@ import java.util.List;
 
 public interface AccountDao {
 	boolean save(Account a);
-	List findAll();
+	List<Account> findAll();
 	Account findByNo(int no);
-	List findByMemberId(String id);
+	List<Account> findByMemberId(String id);
 	boolean update(Account a);
 	boolean deiete(Account a);
 }
